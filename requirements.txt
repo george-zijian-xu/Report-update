@@ -1,0 +1,11 @@
+# openai
+# ib_insync 
+# pandas
+# llama-index
+# jinja2
+# streamlit
+
+# C:/Anaconda/Scripts/activate
+# conda activate FinAnna
+
+#json_string =  str({    "section": "银期转账关联",    "sub_sections": [        {            "title": "业务解释"        },        {            "title": "相关人",            "description": "徐思涵老师"        },        {            "title": "相关材料",            "items": [                {                    "name": "银期转账开通申请表",                    "stamp_requirements": [                        "托管业务专用章",                        "徐超之印",                        "张敏验印",                        "委托公司公章"                    ]                },                {                   "name": "办理银行账户业务授权书",                    "stamp_requirements": [                        "张敏验印",                        "委托公司公章"                    ]                },                {                    "name": "代理人身份证（两份）",                    "stamp_requirements": [                        "张敏验印",                        "委托公司公章"                    ]                },                {                    "name": "营业执照",                    "stamp_requirements": [                        "张敏验印",                        "委托公司公章"                    ]                },                {                    "name": "客户回单",                    "description": "蓝色单子，办理完成后获得"                }            ]        }    ]})

@@ -1,0 +1,16 @@
+###Instructions###: Complete the information of the company analyzed in the format provided in Chinese. Fill in the placeholders and remove brackets. Ensure the context aligns with surrounding text.
+text{截至  [最近报告年份]年末，[公司名称] 经审计的合并会计报表口径资产总额为[金额数字及其计量单位]，所有者权益为  [金额数字及其计量单位]（其中，归属于母公司所有者权益为 [金额数字及其计量单位]）， [最近报告年份，四位阿拉伯数字]年实现营业收入[金额数字与其计量单位]，净利润 [金额数字与其计量单位]（其中，归属于母公司所有者的净利润[金额数字与其计量单位]）。
+[公司名称]目前已成为具备 [目前的前三主要业务，例如：资产管理] 业务资格。公司作为 [根据相关信息填写]，[描述公司战略发展目标和业务方向]。}
+
+###Instructions###: Complete the information of the company analyzed in the format provided in Chinese. Fill in the placeholders and remove brackets. Ensure the context aligns with surrounding text.
+1、证券经纪及信用业务
+[公司名称]经营区域集中于[主要地区]，另外在[其他城市]等城市设有营业机构。截至 [年份] 年末，公司共有 [分公司数量] 家分公司和 [营业部数量] 家营业部，营业部家数与上年同期末[与上年同期对比情况]。公司营业网点分布于全国 [省、直辖市和自治区数量] 个省、直辖市和自治区，其中[特定地区营业部分布情况]。此外，公司通过[相关业务战略和发展方向]。
+
+###Instructions###: Complete the information of the company analyzed in the format provided in Chinese. Fill in the placeholders and remove brackets. Ensure the context aligns with surrounding text.
+（1）经纪业务
+[经纪业务概况，包括业务排名、市场占有率、交易额增长情况、佣金费率、股基交易额等]。
+
+###Instructions###: Complete the information of the company analyzed in the format provided in Chinese. Fill in the placeholders and remove brackets. Ensure the context aligns with surrounding text.
+（2）信用业务
+[公司名称]信用业务主要包括[信用业务类型]，是公司重要的盈利来源。[年份范围]年，公司信用业务分别实现营业收入 [信用业务营业收入详情]，在总营业收入中占比 [占总营业收入比例详情]。[信用业务市场分析，包括融资融券业务规模、股票质押式回购情况、融资融券余额、担保比例、质押融资业务余额等]。
+
